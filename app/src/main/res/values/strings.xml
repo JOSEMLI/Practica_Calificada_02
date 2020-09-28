@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practica calificada 2</string>
+
+    <string name="custom_nombre">practica calificada 2</string>
+    <string name="custom_apellido">practica calificada 2</string>
+    <string name="custom_telefono">practica calificada 2</string>
+    <string name="custom_direccion">practica calificada 2</string>
+    <string name="custom_dni">practica calificada 2</string>
+    <string name="nombre_logo">practica2</string>
+
+    <string name="custom_btn_foto">Tomar Foto</string>
+</resources>
